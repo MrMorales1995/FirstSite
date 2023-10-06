@@ -1,0 +1,165 @@
+body {
+  margin: 0%;
+  text-align: center;
+}
+
+.top-container {
+  background-color: rgb(121, 156, 161);
+  padding: 1rem 5rem ;
+}
+
+.middle-container {
+ margin: 100px 0;
+
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 80px 0 50px 0;
+}
+.contact-message {
+ width: 40% ;
+ margin: 40px auto 60px;
+
+}
+
+.topimg {
+  position: absolute;
+  right: 400px;
+  bottom: 40%;
+
+}
+.bottomimg {
+  left: 400px;
+  display: inline-block;
+  position: absolute;
+
+}
+
+h1 {
+  color: #004444;
+  font-size: 3rem;
+  line-height: 3;
+  
+}
+
+h2 {
+  color: #004444;
+  font-size: 2.5rem;
+  font-weight: normal;
+
+}
+
+h3 {
+ color: #66bfbf;
+
+}
+
+hr {
+  border: 5px dotted;
+  border-style: none none dotted;
+  color: #a09c9c;
+  width: 3%;
+}
+
+.earthimg {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.giphy-embed {
+  float: left;
+  
+}
+
+.foot-n {
+  color: #eaf6f6;
+  font-size: small;
+  font-weight: bold;
+  margin-top: 2rem;
+}
+
+.ProPic {
+  border-radius: 60%;
+  height: 200px;
+  margin-top: 1.5rem;
+  width: 200px;
+}
+
+p {
+ line-height: 2;
+
+}
+
+.intro {
+ margin: 0 auto;
+ padding-bottom: 2rem;
+ width: 30%;
+}
+
+.skill-row {
+ line-height: 2;
+ margin: 50px auto 150px auto;
+ text-align: left;
+ width: 50%;
+
+}
+
+.WebEng {
+ border-radius: 20%;
+ float: right;
+ margin-left: 30px;
+
+}
+
+.btn {
+  background: #99d6ff;
+  background-image: -webkit-linear-gradient(top, #99d6ff, #117ec2);
+  background-image: -moz-linear-gradient(top, #99d6ff, #117ec2);
+  background-image: -ms-linear-gradient(top, #99d6ff, #117ec2);
+  background-image: -o-linear-gradient(top, #99d6ff, #117ec2);
+  background-image: linear-gradient(to bottom, #99d6ff, #117ec2);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 1px 1px 3px #0c0b0b;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #56b8f5;
+  background-image: -webkit-linear-gradient(top, #56b8f5, #2deaf7);
+  background-image: -moz-linear-gradient(top, #56b8f5, #2deaf7);
+  background-image: -ms-linear-gradient(top, #56b8f5, #2deaf7);
+  background-image: -o-linear-gradient(top, #56b8f5, #2deaf7);
+  background-image: linear-gradient(to bottom, #56b8f5, #2deaf7);
+  text-decoration: none;
+}
+a {
+  margin: 0 4px;
+  font-size: larger;
+  text-decoration: none;
+} 
+
+a:hover {
+  color: #eaf6f6;
+  font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
